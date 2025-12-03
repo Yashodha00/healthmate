@@ -1,16 +1,10 @@
-# healthmate
+About The App
+HealthMate helps you track daily health metrics like steps, calories burned, and water intake. Simple, intuitive, and completely free!
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✨ Features
+✅ Dashboard - Daily health summary  
+✅ Add Records - Track steps, calories, water  
+✅ View History - All records in one place  
+✅ Search - Find records by date  
+✅ Edit/Delete - Update or remove records  
+✅ Notifications - Success feedback for actions  
