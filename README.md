@@ -24,7 +24,6 @@ HealthMate helps you track daily health metrics like steps, calories burned, and
 ```bash
 # 1. Clone repository
 git clone https://github.com/Yashodha00/healthmate.git
-cd healthmate
 
 # 2. Install dependencies
 flutter pub get
